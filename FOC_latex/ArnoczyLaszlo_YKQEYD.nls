@@ -1,0 +1,60 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{\(\alpha\)}]\begingroup Szűrő együttható \hfill -\nomeqref {90}\nompageref{51}
+  \item [{\(\omega_{c}\)}]\begingroup  Vágási körfrekvencia \hfill rad/s\nomeqref {90}\nompageref{51}
+  \item [{\(\Psi_{dr}\)}]\begingroup D - irányú rotor fluxus \hfill Wb\nomeqref {90}\nompageref{51}
+  \item [{\(\Psi_{ds}\)}]\begingroup D - irányú stator fluxus \hfill Wb\nomeqref {90}\nompageref{51}
+  \item [{\(\Psi_{M}\)}]\begingroup  Főmező fluxus \hfill Wb\nomeqref {90}\nompageref{51}
+  \item [{\(\Psi_{qr}\)}]\begingroup Q - irányú rotor fluxus \hfill Wb\nomeqref {90}\nompageref{51}
+  \item [{\(\Psi_{qs}\)}]\begingroup Q - irányú stator fluxus \hfill Wb\nomeqref {90}\nompageref{51}
+  \item [{\(\Psi_{r\alpha}\)}]\begingroup Alpha - irányú rotor fluxus \hfill Wb\nomeqref {90}\nompageref{51}
+  \item [{\(\Psi_{r\beta}\)}]\begingroup Beta - irányú rotor fluxus \hfill Wb\nomeqref {90}\nompageref{51}
+  \item [{\(\Theta_{\Psi_r}\)}]\begingroup Rotor fluxus szög \hfill rad/s\nomeqref {90}\nompageref{51}
+  \item [{\(\vec{I}_s\)}]\begingroup Stator áram vektor \hfill A\nomeqref {90}\nompageref{51}
+  \item [{\(\vec{U}_{ref}\)}]\begingroup  Referencia feszültség vektor \hfill V\nomeqref {90}\nompageref{51}
+  \item [{\(\vec{U}_{svec}\)}]\begingroup  Térvektor \hfill V\nomeqref {90}\nompageref{51}
+  \item [{\(\vec{U}_{s}\)}]\begingroup  Stator feszültség vektor \hfill V\nomeqref {90}\nompageref{51}
+  \item [{\(C\)}]\begingroup Kapacitás \hfill F\nomeqref {90}\nompageref{51}
+  \item [{\(f_{c}\)}]\begingroup  Vágási frekvencia \hfill Hz\nomeqref {90}\nompageref{51}
+  \item [{\(f_{fund}\)}]\begingroup  Alapharmónikus frekvencia \hfill Hz\nomeqref {90}\nompageref{51}
+  \item [{\(i_{dr}\)}]\begingroup D - irányú rotor áram \hfill A\nomeqref {90}\nompageref{51}
+  \item [{\(i_{ds}\)}]\begingroup D - irányú stator áram \hfill A\nomeqref {90}\nompageref{51}
+  \item [{\(i_{m}\)}]\begingroup Mágnesező áram \hfill A\nomeqref {90}\nompageref{51}
+  \item [{\(i_{qr}\)}]\begingroup Q - irányú rotor áram \hfill A\nomeqref {90}\nompageref{51}
+  \item [{\(i_{qs}\)}]\begingroup Q - irányú stator áram \hfill A\nomeqref {90}\nompageref{51}
+  \item [{\(i_{r\alpha}\)}]\begingroup Alpha - irányú rotor áram \hfill A\nomeqref {90}\nompageref{51}
+  \item [{\(i_{r\beta}\)}]\begingroup Beta - irányú rotor áram \hfill A\nomeqref {90}\nompageref{51}
+  \item [{\(i_{s\alpha}\)}]\begingroup Alpha - irányú stator áram \hfill A\nomeqref {90}\nompageref{51}
+  \item [{\(i_{s\beta}\)}]\begingroup Beta - irányú stator áram \hfill A\nomeqref {90}\nompageref{51}
+  \item [{\(L_{lr}\)}]\begingroup  Rotor szórási induktivitás \hfill H\nomeqref {90}\nompageref{51}
+  \item [{\(L_{ls}\)}]\begingroup  Stator szórási induktivitás \hfill H\nomeqref {90}\nompageref{51}
+  \item [{\(L_{m}\)}]\begingroup  Főmező induktivitás \hfill H\nomeqref {90}\nompageref{51}
+  \item [{\(L_{r}\)}]\begingroup  Rotor induktivitás \hfill H\nomeqref {90}\nompageref{51}
+  \item [{\(L_{s}\)}]\begingroup  Stator induktivitás \hfill H\nomeqref {90}\nompageref{51}
+  \item [{\(m\)}]\begingroup  Modulációs index \hfill -\nomeqref {90}\nompageref{51}
+  \item [{\(p\)}]\begingroup  Pólus párok száma \hfill -\nomeqref {90}\nompageref{51}
+  \item [{\(R_r\)}]\begingroup  Rotor oldali ellenállás\hfill $\Omega$ \nomeqref {90}\nompageref{51}
+  \item [{\(R_s\)}]\begingroup  Stator oldali ellenállás\hfill $\Omega$ \nomeqref {90}\nompageref{51}
+  \item [{\(T_{1}, T_{2}\)}]\begingroup  Aktív vektorok impulzusszélességei  \hfill -\nomeqref {90}\nompageref{51}
+  \item [{\(T_{r}\)}]\begingroup  Rotor időállandója \hfill -\nomeqref {90}\nompageref{51}
+  \item [{\(T_{s}\)}]\begingroup  Szimuláció mintavételi ideje  \hfill -\nomeqref {90}\nompageref{51}
+  \item [{\(Te\)}]\begingroup Forgatónyomaték \hfill Nm\nomeqref {90}\nompageref{51}
+  \item [{\(U_U\)}]\begingroup U fázis fázisfeszültsége \hfill V\nomeqref {90}\nompageref{51}
+  \item [{\(U_V\)}]\begingroup V fázis fázisfeszültsége \hfill V\nomeqref {90}\nompageref{51}
+  \item [{\(U_W\)}]\begingroup W fázis fázisfeszültsége \hfill V\nomeqref {90}\nompageref{51}
+  \item [{\(U_{DC}\)}]\begingroup  DC feszültség \hfill V\nomeqref {90}\nompageref{51}
+  \item [{\(U_{dr}\)}]\begingroup D - irányú rotor feszültség \hfill V\nomeqref {90}\nompageref{51}
+  \item [{\(U_{ds}\)}]\begingroup D - irányú stator feszültség \hfill V\nomeqref {90}\nompageref{51}
+  \item [{\(U_{i}\)}]\begingroup indukált feszültség \hfill V\nomeqref {90}\nompageref{51}
+  \item [{\(U_{nom}\)}]\begingroup  Nominális feszültség \hfill V\nomeqref {90}\nompageref{51}
+  \item [{\(U_{qr}\)}]\begingroup Q - irányú rotor feszültség \hfill V\nomeqref {90}\nompageref{51}
+  \item [{\(U_{qs}\)}]\begingroup Q - irányú stator feszültség \hfill V\nomeqref {90}\nompageref{51}
+  \item [{\(X\)}]\begingroup Impedancia \hfill $\Omega$\nomeqref {90}\nompageref{51}
+  \item [{\({\omega_m}\)}]\begingroup  Mechanikai szögsebesség \hfill rad/s\nomeqref {90}\nompageref{51}
+  \item [{\({\omega_r}\)}]\begingroup  Rotor elektrikus szögsebessége \hfill rad/s\nomeqref {90}\nompageref{51}
+  \item [{\({\omega_{rated}}\)}]\begingroup  Nominális szögsebesség \hfill rad/s\nomeqref {90}\nompageref{51}
+  \item [{\({\omega_{slip}}\)}]\begingroup  Slip szögsebesség \hfill rad/s\nomeqref {90}\nompageref{51}
+  \item [{\({\omega}\)}]\begingroup  Állórész szögsebesség (szinkron sebesség) \hfill rad/s\nomeqref {90}\nompageref{51}
+
+\end{thenomenclature}

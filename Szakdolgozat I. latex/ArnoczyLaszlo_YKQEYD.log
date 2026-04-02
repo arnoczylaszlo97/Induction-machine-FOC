@@ -1,0 +1,1633 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.5.25)  5 NOV 2025 19:53
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ArnoczyLaszlo_YKQEYD.tex
+(ArnoczyLaszlo_YKQEYD.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/base\ar
+ticle.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/base\si
+ze12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/babel
+\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count195
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/babel
+\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count196
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/arabi\b
+blopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/babel-h
+ungarian\magyar.ldf
+Language: magyar 2025/05/02 v1.5d Hungarian support for babel
+Package babel Info: Making ` an active character on input line 2778.
+\c@footnote@add=\count197
+\c@footnote@ch=\count198
+))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/babel
+/locale/hu\babel-magyar.tex
+Package babel Info: Importing font and identification data for magyar
+(babel)             from babel-hu.ini. Reported on input line 11.
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/base\t1
+enc.sty
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\
+mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/caption
+\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/caption
+\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/graphic
+s\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\caption@tempdima=\dimen142
+\captionmargin=\dimen143
+\caption@leftmargin=\dimen144
+\caption@rightmargin=\dimen145
+\caption@width=\dimen146
+\caption@indent=\dimen147
+\caption@parindent=\dimen148
+\caption@hangindent=\dimen149
+Package caption Info: Standard document class detected.
+Package caption Info: hungarian babel package is loaded.
+)
+\c@caption@flags=\count199
+\c@continuedfloat=\count266
+Package caption Info: hungarian babel package is loaded.
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/enumite
+m\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen150
+\enit@toks=\toks18
+\enit@inbox=\box51
+\enit@count@id=\count267
+\enitdp@description=\count268
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/parskip
+\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/kvoptio
+ns\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/ltxcm
+ds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/kvsetke
+ys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/etoolbo
+x\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/base\in
+putenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/url\url
+.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/hyperre
+f\hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/iftex
+\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/infwa
+rerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/kvdef
+inekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pdfes
+cape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pdfte
+xcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/hycolor
+\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/letltxm
+acro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/auxhook
+\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/hyperre
+f\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/refcoun
+t\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/getti
+tlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count270
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count271
+\Hy@pagecounter=\count272
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/hyperre
+f\pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/intca
+lc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count273
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/hyperre
+f\puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count274
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen152
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/bitse
+t\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/bigin
+tcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count275
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/base\at
+begshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count276
+\c@Item=\count277
+\c@Hfootnote=\count278
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/hyperre
+f\hpdftex.def
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/base\at
+veryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count279
+\c@bookmark@seq@number=\count280
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/rerunfi
+lecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/uniqu
+ecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip51
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/amsmath
+\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/amsmath
+\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/amsmath
+\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen155
+))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/amsmath
+\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen156
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/amsmath
+\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count281
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count282
+\leftroot@=\count283
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count284
+\DOTSCASE@=\count285
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen157
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count286
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count287
+\dotsspace@=\muskip17
+\c@parentequation=\count288
+\dspbrk@lvl=\count289
+\tag@help=\toks22
+\row@=\count290
+\column@=\count291
+\maxfields@=\count292
+\andhelp@=\toks23
+\eqnshift@=\dimen158
+\alignsep@=\dimen159
+\tagshift@=\dimen160
+\tagwidth@=\dimen161
+\totwidth@=\dimen162
+\lineht@=\dimen163
+\@envbody=\toks24
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/setspac
+e\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/framed\
+framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip55
+\fb@frw=\dimen164
+\fb@frh=\dimen165
+\FrameRule=\dimen166
+\FrameSep=\dimen167
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/tools\m
+ulticol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count293
+\mult@box=\box54
+\multicol@leftmargin=\dimen168
+\c@unbalance=\count294
+\c@collectmore=\count295
+\doublecol@number=\count296
+\multicoltolerance=\count297
+\multicolpretolerance=\count298
+\full@width=\dimen169
+\page@free=\dimen170
+\premulticols=\dimen171
+\postmulticols=\dimen172
+\multicolsep=\skip56
+\multicolbaselineskip=\skip57
+\partial@page=\box55
+\last@line=\box56
+\mc@boxedresult=\box57
+\maxbalancingoverflow=\dimen173
+\mult@rightbox=\box58
+\mult@grightbox=\box59
+\mult@firstbox=\box60
+\mult@gfirstbox=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\c@minrows=\count299
+\c@columnbadness=\count300
+\c@finalcolumnbadness=\count301
+\last@try=\dimen174
+\multicolovershoot=\dimen175
+\multicolundershoot=\dimen176
+\mult@nat@firstbox=\box98
+\colbreak@box=\box99
+\mc@col@check@num=\count302
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/nomencl
+\nomencl.sty
+Package: nomencl 2021/11/10 v5.6 Nomenclature package
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval
+\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/xkeyv
+al\xkeyval.tex
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/xkeyv
+al\xkvutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count303
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/base\if
+then.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/koma-sc
+ript\tocbasic.sty
+Package: tocbasic 2024/10/24 v3.43 KOMA-Script package (handling toc-files)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/koma-sc
+ript\scrbase.sty
+Package: scrbase 2024/10/24 v3.43 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/koma-sc
+ript\scrlfile.sty
+Package: scrlfile 2024/10/24 v3.43 KOMA-Script package (file load hooks)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/koma-sc
+ript\scrlfile-hook.sty
+Package: scrlfile-hook 2024/10/24 v3.43 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/koma-sc
+ript\scrlogo.sty
+Package: scrlogo 2024/10/24 v3.43 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 370.
+)
+\scr@dte@tocline@numberwidth=\skip58
+\scr@dte@tocline@numbox=\box100
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 187.
+Package tocbasic Info: setting babel extension for `nls' on input line 188.
+\nomlabelwidth=\dimen177
+\nom@tempdim=\dimen178
+\nomitemsep=\skip59
+)
+\@nomenclaturefile=\write3
+\openout3 = `ArnoczyLaszlo_YKQEYD.nlo'.
+
+Package nomencl Info: Writing nomenclature file ArnoczyLaszlo_YKQEYD.nlo on inp
+ut line 20.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/titlese
+c\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box101
+\beforetitleunit=\skip60
+\aftertitleunit=\skip61
+\ttl@plus=\dimen179
+\ttl@minus=\dimen180
+\ttl@toksa=\toks28
+\titlewidth=\dimen181
+\titlewidthlast=\dimen182
+\titlewidthfirst=\dimen183
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/geometr
+y\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/iftex
+\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count304
+\Gm@cntv=\count305
+\c@Gm@tempcnt=\count306
+\Gm@bindingoffset=\dimen184
+\Gm@wd@mp=\dimen185
+\Gm@odd@mp=\dimen186
+\Gm@even@mp=\dimen187
+\Gm@layoutwidth=\dimen188
+\Gm@layoutheight=\dimen189
+\Gm@layouthoffset=\dimen190
+\Gm@layoutvoffset=\dimen191
+\Gm@dimlist=\toks29
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/geometr
+y\geometry.cfg))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/ragged2
+e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip62
+\RaggedLeftLeftskip=\skip63
+\RaggedRightLeftskip=\skip64
+\CenteringRightskip=\skip65
+\RaggedLeftRightskip=\skip66
+\RaggedRightRightskip=\skip67
+\CenteringParfillskip=\skip68
+\RaggedLeftParfillskip=\skip69
+\RaggedRightParfillskip=\skip70
+\JustifyingParfillskip=\skip71
+\CenteringParindent=\skip72
+\RaggedLeftParindent=\skip73
+\RaggedRightParindent=\skip74
+\JustifyingParindent=\skip75
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/tcolorb
+ox\tcolorbox.sty
+Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/pgf/bas
+iclayer\pgf.sty
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/pgf/uti
+lities\pgfrcs.sty
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/u
+tilities\pgfutil-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen192
+\pgfutil@tempdimb=\dimen193
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/u
+tilities\pgfutil-latex.def
+\pgfutil@abb=\box102
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/u
+tilities\pgfrcs.code.tex
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf\p
+gf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/pgf/bas
+iclayer\pgfcore.sty
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/graphic
+s\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/graphic
+s\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/graphic
+s\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/graphic
+s-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/graphic
+s-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen194
+\Gin@req@width=\dimen195
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/pgf/sys
+temlayer\pgfsys.sty
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/s
+ystemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/u
+tilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/u
+tilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen196
+\pgf@y=\dimen197
+\pgf@xa=\dimen198
+\pgf@ya=\dimen199
+\pgf@xb=\dimen256
+\pgf@yb=\dimen257
+\pgf@xc=\dimen258
+\pgf@yc=\dimen259
+\pgf@xd=\dimen260
+\pgf@yd=\dimen261
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count307
+\c@pgf@countb=\count308
+\c@pgf@countc=\count309
+\c@pgf@countd=\count310
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count311
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/s
+ystemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/s
+ystemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/s
+ystemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/s
+ystemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count312
+\pgfsyssoftpath@bigbuffer@items=\count313
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/s
+ystemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\
+xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/graphic
+s-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/graphic
+s\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmath.code.tex
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmathutil.code.tex)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen262
+\pgfmath@count=\count314
+\pgfmath@box=\box103
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmathfunctions.code.tex)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmathfunctions.basic.code.tex)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmathfunctions.trigonometric.code.tex)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmathfunctions.random.code.tex)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmathfunctions.comparison.code.tex)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmathfunctions.base.code.tex)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmathfunctions.round.code.tex)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmathfunctions.misc.code.tex)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmathfunctions.integerarithmetics.code.tex)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmathcalc.code.tex)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count315
+))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfint.code.tex)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen263
+\pgf@picmaxx=\dimen264
+\pgf@picminy=\dimen265
+\pgf@picmaxy=\dimen266
+\pgf@pathminx=\dimen267
+\pgf@pathmaxx=\dimen268
+\pgf@pathminy=\dimen269
+\pgf@pathmaxy=\dimen270
+\pgf@xx=\dimen271
+\pgf@xy=\dimen272
+\pgf@yx=\dimen273
+\pgf@yy=\dimen274
+\pgf@zx=\dimen275
+\pgf@zy=\dimen276
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen277
+\pgf@path@lasty=\dimen278
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen279
+\pgf@shorten@start@additional=\dimen280
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box104
+\pgf@hbox=\box105
+\pgf@layerbox@main=\box106
+\pgf@picture@serial@count=\count316
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen281
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen282
+\pgf@pt@y=\dimen283
+\pgf@pt@temp=\dimen284
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen285
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen286
+\pgf@sys@shading@range@num=\count317
+\pgf@shadingcount=\count318
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box107
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/b
+asiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+odules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box108
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+odules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/pgf/com
+patibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen287
+\pgf@nodesepend=\dimen288
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/pgf/com
+patibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/tools\v
+erbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks40
+\verbatim@line=\toks41
+\verbatim@in@stream=\read4
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/environ
+\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/trimspa
+ces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box109
+\tcb@upperbox=\box110
+\tcb@lowerbox=\box111
+\tcb@phantombox=\box112
+\c@tcbbreakpart=\count319
+\c@tcblayer=\count320
+\c@tcolorbox@number=\count321
+\l__tcobox_tmpa_box=\box113
+\l__tcobox_tmpa_dim=\dimen289
+\tcb@temp=\box114
+\tcb@temp=\box115
+\tcb@temp=\box116
+\tcb@temp=\box117
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/tcolorb
+ox\tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.2.0'
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/pgf/fro
+ntendlayer\tikz.sty
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/pgf/uti
+lities\pgffor.sty
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/pgf/uti
+lities\pgfkeys.sty
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/u
+tilities\pgfkeys.code.tex))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/pgf/mat
+h\pgfmath.sty
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+ath\pgfmath.code.tex))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/u
+tilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen290
+\pgffor@skip=\dimen291
+\pgffor@stack=\toks42
+\pgffor@toks=\toks43
+))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/f
+rontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/l
+ibraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count322
+\pgfplotmarksize=\dimen292
+)
+\tikz@lastx=\dimen293
+\tikz@lasty=\dimen294
+\tikz@lastxsaved=\dimen295
+\tikz@lastysaved=\dimen296
+\tikz@lastmovetox=\dimen297
+\tikz@lastmovetoy=\dimen298
+\tikzleveldistance=\dimen299
+\tikzsiblingdistance=\dimen300
+\tikz@figbox=\box118
+\tikz@figbox@bg=\box119
+\tikz@tempbox=\box120
+\tikz@tempbox@bg=\box121
+\tikztreelevel=\count323
+\tikznumberofchildren=\count324
+\tikznumberofcurrentchild=\count325
+\tikz@fig@count=\count326
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/m
+odules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count327
+\pgfmatrixcurrentcolumn=\count328
+\pgf@matrix@numberofcolumns=\count329
+)
+\tikz@expandcount=\count330
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/generic/pgf/f
+rontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/tikzfil
+l\tikzfill.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/tikzfil
+l\tikzfill-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/tikzfil
+l\tikzlibraryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box122
+))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/tcolorb
+ox\tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.2.0'
+))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/tcolorb
+ox\tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.2.0'
+))
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/listing
+s\listings.sty
+\lst@mode=\count331
+\lst@gtempboxa=\box123
+\lst@token=\toks44
+\lst@length=\count332
+\lst@currlwidth=\dimen301
+\lst@column=\count333
+\lst@pos=\count334
+\lst@lostspace=\dimen302
+\lst@width=\dimen303
+\lst@newlines=\count335
+\lst@lineno=\count336
+\lst@maxwidth=\dimen304
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/listing
+s\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count337
+\lst@skipnumbers=\count338
+\lst@framebox=\box124
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/listing
+s\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/multiro
+w\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip76
+\multirow@cntb=\count339
+\multirow@dima=\skip77
+\bigstrutjot=\dimen305
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/subfig\
+subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count340
+\sf@farskip=\skip78
+\sf@captopadj=\dimen306
+\sf@capskip=\skip79
+\sf@nearskip=\skip80
+\c@subfigure=\count341
+\c@subfigure@save=\count342
+\c@lofdepth=\count343
+\c@subtable=\count344
+\c@subtable@save=\count345
+\c@lotdepth=\count346
+\sf@top=\skip81
+\sf@bottom=\skip82
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/tools\b
+m.sty
+Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
+Package bm Info: No bold for \OT1/ztmcm/m/n, using \pmb.
+Package bm Info: No bold for \OML/ztmcm/m/it, using \pmb.
+Package bm Info: No bold for \OMS/ztmcm/m/n, using \pmb.
+Package bm Info: No bold for \OMX/ztmcm/m/n, using \pmb.
+Package bm Info: No bold for \OT1/ptm/bx/n, using \pmb.
+Package bm Info: No bold for \OT1/ptm/m/it, using \pmb.
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/matlab-
+prettifier\matlab-prettifier.sty
+Package: matlab-prettifier 2014/06/19 v0.3 A package for prettyprinting Matlab 
+source code
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/base\te
+xtcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+\netBracketCount@mlpr=\count347
+\blkLvl@mlpr=\count348
+\blkLvlAtClassdef@mlpr=\count349
+\emHeight@mlpr=\skip83
+\jayDepth@mlpr=\skip84
+\sectionRuleOffset@mlpr=\skip85
+\toks@mlpr=\toks45
+)
+   defining Unicode char U+2212 (decimal 8722)
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 10
+8.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\
+t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/l3backe
+nd\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count350
+\l__pdf_internal_box=\box125
+) (ArnoczyLaszlo_YKQEYD.aux
+
+LaTeX Warning: Label `fig:Async' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `PWM_comp' multiply defined.
+
+
+LaTeX Warning: Label `ids' multiply defined.
+
+
+LaTeX Warning: Label `ids' multiply defined.
+
+
+LaTeX Warning: Label `Te' multiply defined.
+
+)
+\openout1 = `ArnoczyLaszlo_YKQEYD.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 108.
+ (ArnoczyLaszlo_YKQEYD.out) (ArnoczyLaszlo_YKQEYD.out)
+\@outlinefile=\write5
+\openout5 = `ArnoczyLaszlo_YKQEYD.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 660.10394pt, 113.81102pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=660.10394pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/context/base/
+mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count351
+\scratchdimen=\dimen307
+\scratchbox=\box126
+\nofMPsegments=\count352
+\nofMParguments=\count353
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count354
+\MPscratchDim=\dimen308
+\MPnumerator=\count355
+\makeMPintoPDFobject=\count356
+\everyMPtoPDFconversion=\toks47
+)
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/epstopd
+f-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/00mikte
+x\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count357
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/base\ar
+ticle.cls
+LaTeX Info: Redefining \cal on input line 497.
+LaTeX Info: Redefining \mit on input line 498.
+) [1
+
+
+{C:/Users/ArnóczyLászlóVince/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.ma
+p}{C:/Users/ArnóczyLászlóVince/AppData/Local/Programs/MiKTeX/fonts/enc/dvips
+/base/8r.enc}] [2] (ArnoczyLaszlo_YKQEYD.toc
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 4.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\
+ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 4.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\
+omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 4.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\
+omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 4.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\
+omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
+.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\
+ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+ [3])
+\tf@toc=\write6
+\openout6 = `ArnoczyLaszlo_YKQEYD.toc'.
+
+ [4] [5]
+<ControlScheme.png, id=185, 1029.8475pt x 1318.9275pt>
+File: ControlScheme.png Graphic file (type png)
+<use ControlScheme.png>
+Package pdftex.def Info: ControlScheme.png  used on input line 134.
+(pdftex.def)             Requested size: 426.79134pt x 546.57996pt.
+
+Overfull \hbox (2.84517pt too wide) in paragraph at lines 134--134
+ [] 
+ []
+
+[6 <./ControlScheme.png>] [7] [8]
+<Async.png, id=209, 621.82312pt x 551.05875pt>
+File: Async.png Graphic file (type png)
+<use Async.png>
+Package pdftex.def Info: Async.png  used on input line 180.
+(pdftex.def)             Requested size: 227.62204pt x 201.71915pt.
+ [9 <./Async.png>] [10]
+<NoLoad2.png, id=229, 644.6484pt x 212.4738pt>
+File: NoLoad2.png Graphic file (type png)
+<use NoLoad2.png>
+Package pdftex.def Info: NoLoad2.png  used on input line 206.
+(pdftex.def)             Requested size: 426.79134pt x 140.6708pt.
+
+Overfull \hbox (2.84517pt too wide) in paragraph at lines 206--206
+ [] 
+ []
+
+[11 <./NoLoad2.png>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+33.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\
+ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [12]
+<limit.png, id=249, 351.56343pt x 377.15906pt>
+File: limit.png Graphic file (type png)
+<use limit.png>
+Package pdftex.def Info: limit.png  used on input line 259.
+(pdftex.def)             Requested size: 213.39566pt x 228.9272pt.
+<mtpa_diag.png, id=250, 449.5194pt x 835.4412pt>
+File: mtpa_diag.png Graphic file (type png)
+<use mtpa_diag.png>
+Package pdftex.def Info: mtpa_diag.png  used on input line 275.
+(pdftex.def)             Requested size: 312.9803pt x 581.69438pt.
+ [13 <./limit.png>] [14 <./mtpa_diag.png>]
+<mtpa_blokk.png, id=270, 398.2077pt x 173.448pt>
+File: mtpa_blokk.png Graphic file (type png)
+<use mtpa_blokk.png>
+Package pdftex.def Info: mtpa_blokk.png  used on input line 288.
+(pdftex.def)             Requested size: 184.9429pt x 80.55455pt.
+<mtpa_static.png, id=271, 737.00343pt x 636.87938pt>
+File: mtpa_static.png Graphic file (type png)
+<use mtpa_static.png>
+Package pdftex.def Info: mtpa_static.png  used on input line 295.
+(pdftex.def)             Requested size: 298.75394pt x 258.15825pt.
+<mtpa_sat.png, id=272, 734.745pt x 626.34pt>
+File: mtpa_sat.png Graphic file (type png)
+<use mtpa_sat.png>
+Package pdftex.def Info: mtpa_sat.png  used on input line 302.
+(pdftex.def)             Requested size: 298.75394pt x 254.67937pt.
+ [15 <./mtpa_blokk.png> <./mtpa_static.png (PNG copy)>] [16 <./mtpa_sat.png (PN
+G copy)>]
+<discretizedPi.png, id=286, 549.9747pt x 383.031pt>
+File: discretizedPi.png Graphic file (type png)
+<use discretizedPi.png>
+Package pdftex.def Info: discretizedPi.png  used on input line 353.
+(pdftex.def)             Requested size: 312.9803pt x 217.97342pt.
+ [17 <./discretizedPi.png>]
+<anti_Pi.png, id=297, 710.4141pt x 305.7021pt>
+File: anti_Pi.png Graphic file (type png)
+<use anti_Pi.png>
+Package pdftex.def Info: anti_Pi.png  used on input line 371.
+(pdftex.def)             Requested size: 227.62204pt x 97.94794pt.
+<anti_windup.png, id=298, 484.209pt x 343.2825pt>
+File: anti_windup.png Graphic file (type png)
+<use anti_windup.png>
+Package pdftex.def Info: anti_windup.png  used on input line 378.
+(pdftex.def)             Requested size: 284.52756pt x 201.723pt.
+ [18 <./anti_Pi.png> <./anti_windup.png>]
+<Pi_sim.png, id=307, 1072.75781pt x 467.49657pt>
+File: Pi_sim.png Graphic file (type png)
+<use Pi_sim.png>
+Package pdftex.def Info: Pi_sim.png  used on input line 407.
+(pdftex.def)             Requested size: 398.33858pt x 173.59163pt.
+ [19 <./Pi_sim.png>]
+<inverter.png, id=316, 1164.60094pt x 542.025pt>
+File: inverter.png Graphic file (type png)
+<use inverter.png>
+Package pdftex.def Info: inverter.png  used on input line 423.
+(pdftex.def)             Requested size: 426.79134pt x 198.63559pt.
+
+Overfull \hbox (2.84517pt too wide) in paragraph at lines 423--423
+ [] 
+ []
+
+[20 <./inverter.png>]
+<states.png, id=323, 742.9356pt x 503.7219pt>
+File: states.png Graphic file (type png)
+<use states.png>
+Package pdftex.def Info: states.png  used on input line 443.
+(pdftex.def)             Requested size: 312.9803pt x 212.20738pt.
+ [21 <./states.png>]
+<sin_svpwm.png, id=335, 637.4214pt x 162.6075pt>
+File: sin_svpwm.png Graphic file (type png)
+<use sin_svpwm.png>
+Package pdftex.def Info: sin_svpwm.png  used on input line 458.
+(pdftex.def)             Requested size: 426.79134pt x 108.87698pt.
+
+Overfull \hbox (2.84517pt too wide) in paragraph at lines 458--458
+ [] 
+ []
+
+[22 <./sin_svpwm.png>]
+<sTime1.png, id=342, 1947.6765pt x 751.608pt>
+File: sTime1.png Graphic file (type png)
+<use sTime1.png>
+Package pdftex.def Info: sTime1.png  used on input line 502.
+(pdftex.def)             Requested size: 426.79134pt x 164.68909pt.
+
+Overfull \hbox (2.84517pt too wide) in paragraph at lines 502--502
+ [] 
+ []
+
+[23 <./sTime1.png>] [24]
+<swSeq.png, id=363, 679.78969pt x 472.01344pt>
+File: swSeq.png Graphic file (type png)
+<use swSeq.png>
+Package pdftex.def Info: swSeq.png  used on input line 565.
+(pdftex.def)             Requested size: 398.33858pt x 276.58409pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 560--568
+
+ []
+
+<swTable.png, id=364, 492.33937pt x 456.20438pt>
+File: swTable.png Graphic file (type png)
+<use swTable.png>
+Package pdftex.def Info: swTable.png  used on input line 572.
+(pdftex.def)             Requested size: 256.0748pt x 237.29028pt.
+[25 <./swSeq.png>]
+<PWM_gen.png, id=377, 747.9945pt x 359.9046pt>
+File: PWM_gen.png Graphic file (type png)
+<use PWM_gen.png>
+Package pdftex.def Info: PWM_gen.png  used on input line 583.
+(pdftex.def)             Requested size: 341.43306pt x 164.28404pt.
+ [26 <./swTable.png> <./PWM_gen.png>]
+<svpwm_sim.png, id=386, 1353.55687pt x 269.50688pt>
+File: svpwm_sim.png Graphic file (type png)
+<use svpwm_sim.png>
+Package pdftex.def Info: svpwm_sim.png  used on input line 609.
+(pdftex.def)             Requested size: 398.33858pt x 79.31055pt.
+<simscape_inv.png, id=387, 732.48656pt x 381.67593pt>
+File: simscape_inv.png Graphic file (type png)
+<use simscape_inv.png>
+Package pdftex.def Info: simscape_inv.png  used on input line 621.
+(pdftex.def)             Requested size: 284.52756pt x 148.25897pt.
+ [27 <./svpwm_sim.png>]
+<spwm_duty.png, id=398, 1192.455pt x 365.11406pt>
+File: spwm_duty.png Graphic file (type png)
+<use spwm_duty.png>
+Package pdftex.def Info: spwm_duty.png  used on input line 635.
+(pdftex.def)             Requested size: 398.33858pt x 121.96437pt.
+<spwm_pwm.png, id=399, 1199.98312pt x 367.3725pt>
+File: spwm_pwm.png Graphic file (type png)
+<use spwm_pwm.png>
+Package pdftex.def Info: spwm_pwm.png  used on input line 643.
+(pdftex.def)             Requested size: 398.33858pt x 121.9508pt.
+
+[28 <./simscape_inv.png> <./spwm_duty.png>] [29 <./spwm_pwm.png>] [30]
+<rotorfluxdq.png, id=428, 569.12625pt x 408.52625pt>
+File: rotorfluxdq.png Graphic file (type png)
+<use rotorfluxdq.png>
+Package pdftex.def Info: rotorfluxdq.png  used on input line 813.
+(pdftex.def)             Requested size: 275.99164pt x 198.11629pt.
+ [31 <./rotorfluxdq.png>]
+<RC.png, id=443, 1140.4206pt x 354.8457pt>
+File: RC.png Graphic file (type png)
+<use RC.png>
+Package pdftex.def Info: RC.png  used on input line 837.
+(pdftex.def)             Requested size: 369.88582pt x 115.09065pt.
+ [32 <./RC.png>]
+<IIR_sim.png, id=452, 626.34pt x 282.30469pt>
+File: IIR_sim.png Graphic file (type png)
+<use IIR_sim.png>
+Package pdftex.def Info: IIR_sim.png  used on input line 871.
+(pdftex.def)             Requested size: 341.43306pt x 153.89392pt.
+ [33 <./IIR_sim.png>] [34]
+<bode.png, id=473, 1190.19656pt x 676.02562pt>
+File: bode.png Graphic file (type png)
+<use bode.png>
+Package pdftex.def Info: bode.png  used on input line 938.
+(pdftex.def)             Requested size: 398.33858pt x 226.24562pt.
+ [35] [36 <./bode.png>]
+<uf.png, id=494, 828.09375pt x 527.9725pt>
+File: uf.png Graphic file (type png)
+<use uf.png>
+Package pdftex.def Info: uf.png  used on input line 960.
+(pdftex.def)             Requested size: 241.84842pt x 154.19568pt.
+<uf_ang.png, id=495, 796.47563pt x 242.40562pt>
+File: uf_ang.png Graphic file (type png)
+<use uf_ang.png>
+Package pdftex.def Info: uf_ang.png  used on input line 976.
+(pdftex.def)             Requested size: 304.4444pt x 92.6551pt.
+ [37 <./uf.png> <./uf_ang.png>]
+<uf_wm.png, id=507, 1183.42125pt x 370.38374pt>
+File: uf_wm.png Graphic file (type png)
+<use uf_wm.png>
+Package pdftex.def Info: uf_wm.png  used on input line 993.
+(pdftex.def)             Requested size: 398.33858pt x 124.66849pt.
+<uf_flux.png, id=508, 1178.15157pt x 368.1253pt>
+File: uf_flux.png Graphic file (type png)
+<use uf_flux.png>
+Package pdftex.def Info: uf_flux.png  used on input line 1000.
+(pdftex.def)             Requested size: 398.33858pt x 124.46442pt.
+<uf_ang2.png, id=509, 1188.69093pt x 365.86688pt>
+File: uf_ang2.png Graphic file (type png)
+<use uf_ang2.png>
+Package pdftex.def Info: uf_ang2.png  used on input line 1007.
+(pdftex.def)             Requested size: 398.33858pt x 122.60104pt.
+ [38 <./uf_wm.png> <./uf_flux.png>]
+<uf_duty.png, id=521, 1196.21906pt x 368.87813pt>
+File: uf_duty.png Graphic file (type png)
+<use uf_duty.png>
+Package pdftex.def Info: uf_duty.png  used on input line 1017.
+(pdftex.def)             Requested size: 398.33858pt x 122.83336pt.
+ [39 <./uf_ang2.png> <./uf_duty.png>]
+<foc.png, id=530, 566.115pt x 315.67938pt>
+File: foc.png Graphic file (type png)
+<use foc.png>
+Package pdftex.def Info: foc.png  used on input line 1030.
+(pdftex.def)             Requested size: 398.33858pt x 222.1301pt.
+ [40 <./foc.png>]
+<mot_imp.png, id=537, 292.09125pt x 749.80125pt>
+File: mot_imp.png Graphic file (type png)
+<use mot_imp.png>
+Package pdftex.def Info: mot_imp.png  used on input line 1040.
+(pdftex.def)             Requested size: 230.46748pt x 591.62715pt.
+ [41 <./mot_imp.png>]
+<inv_imp.png, id=544, 223.33438pt x 654.445pt>
+File: inv_imp.png Graphic file (type png)
+<use inv_imp.png>
+Package pdftex.def Info: inv_imp.png  used on input line 1047.
+(pdftex.def)             Requested size: 202.01474pt x 591.98088pt.
+ [42 <./inv_imp.png>]
+<lm.png, id=551, 527.72156pt x 394.47375pt>
+File: lm.png Graphic file (type png)
+<use lm.png>
+Package pdftex.def Info: lm.png  used on input line 1094.
+(pdftex.def)             Requested size: 398.33858pt x 297.75664pt.
+ [43] [44 <./lm.png (PNG copy)>]
+<ids.png, id=562, 599.23875pt x 369.63094pt>
+File: ids.png Graphic file (type png)
+<use ids.png>
+Package pdftex.def Info: ids.png  used on input line 1104.
+(pdftex.def)             Requested size: 341.43306pt x 210.61285pt.
+<iqs.png, id=563, 606.76688pt x 371.13657pt>
+File: iqs.png Graphic file (type png)
+<use iqs.png>
+Package pdftex.def Info: iqs.png  used on input line 1110.
+(pdftex.def)             Requested size: 341.43306pt x 208.84308pt.
+ [45 <./ids.png> <./iqs.png>]
+<uds.png, id=572, 603.75563pt x 366.61969pt>
+File: uds.png Graphic file (type png)
+<use uds.png>
+Package pdftex.def Info: uds.png  used on input line 1119.
+(pdftex.def)             Requested size: 341.43306pt x 207.3251pt.
+<uqs.png, id=573, 603.75563pt x 365.11406pt>
+File: uqs.png Graphic file (type png)
+<use uqs.png>
+Package pdftex.def Info: uqs.png  used on input line 1125.
+(pdftex.def)             Requested size: 341.43306pt x 206.47366pt.
+ [46 <./uds.png> <./uqs.png>]
+<flux.png, id=582, 611.28375pt x 365.11406pt>
+File: flux.png Graphic file (type png)
+<use flux.png>
+Package pdftex.def Info: flux.png  used on input line 1134.
+(pdftex.def)             Requested size: 341.43306pt x 203.93321pt.
+<Te.png, id=583, 606.76688pt x 371.88937pt>
+File: Te.png Graphic file (type png)
+<use Te.png>
+Package pdftex.def Info: Te.png  used on input line 1140.
+(pdftex.def)             Requested size: 341.43306pt x 209.2667pt.
+ [47 <./flux.png> <./Te.png>]
+<lm_sat.png, id=592, 545.78906pt x 459.21562pt>
+File: lm_sat.png Graphic file (type png)
+<use lm_sat.png>
+Package pdftex.def Info: lm_sat.png  used on input line 1165.
+(pdftex.def)             Requested size: 341.43306pt x 287.27531pt.
+<Te_sat.png, id=593, 603.75563pt x 366.61969pt>
+File: Te_sat.png Graphic file (type png)
+<use Te_sat.png>
+Package pdftex.def Info: Te_sat.png  used on input line 1172.
+(pdftex.def)             Requested size: 398.33858pt x 241.88023pt.
+ [48 <./lm_sat.png (PNG copy)>]
+[49 <./Te_sat.png>] [50] (ArnoczyLaszlo_YKQEYD.nls [51]) [52]
+(ArnoczyLaszlo_YKQEYD.lof [53])
+\tf@lof=\write7
+\openout7 = `ArnoczyLaszlo_YKQEYD.lof'.
+
+ [54] (ArnoczyLaszlo_YKQEYD.bbl
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
+.
+
+(C:\Users\ArnóczyLászlóVince\AppData\Local\Programs\MiKTeX\tex/latex/base\t1
+cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+[]\T1/ptm/m/n/12 Calculate cut-off fre-qu-ency of a di-g-ital iir fil-ter.  []$
+\T1/cmtt/m/n/12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+\T1/cmtt/m/n/12 / / electronics . stackexchange . com / questions / 498226 /
+ []
+
+
+Underfull \hbox (badness 7116) in paragraph at lines 13--16
+[]\T1/ptm/m/n/12 Mathworks asynch-ro-no-us ma-chi-ne.  []$\T1/cmtt/m/n/12 https
+ : / / www . mathworks . com / help / sps /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+[]\T1/ptm/m/n/12 Pulse-width mo-du-la-ti-on.  []$\T1/cmtt/m/n/12 https : / / st
+udylib . net / doc / 18034204 /
+ []
+
+) [55] (ArnoczyLaszlo_YKQEYD.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `ArnoczyLaszlo_YKQEYD.out' has not changed.
+(rerunfilecheck)             Checksum: C3190B99CA664A1BC5DDC62B6FC6F055;8769.
+ ) 
+Here is how much of TeX's memory you used:
+ 31869 strings out of 474486
+ 630275 string characters out of 5736203
+ 1949542 words of memory out of 5000000
+ 53376 multiletter control sequences out of 15000+600000
+ 595186 words of font info for 97 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 110i,13n,118p,3899b,673s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\ArnóczyLászlóVince\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
+n/ec/dpi600\ectt1200.pk><C:/Users/ArnóczyLászlóVince/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ArnóczyLászlóVinc
+e/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/U
+sers/ArnóczyLászlóVince/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><C:/Users/ArnóczyLászlóVince/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ArnóczyLászlóVince/App
+Data/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/ArnóczyL�
+�szlóVince/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/U
+sers/ArnóczyLászlóVince/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
+utmb8a.pfb><C:/Users/ArnóczyLászlóVince/AppData/Local/Programs/MiKTeX/fonts/
+type1/urw/times/utmr8a.pfb><C:/Users/ArnóczyLászlóVince/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ArnoczyLaszlo_YKQEYD.pdf (55 pages, 11654871 bytes).
+PDF statistics:
+ 816 PDF objects out of 1000 (max. 8388607)
+ 250 named destinations out of 1000 (max. 500000)
+ 550 words of extra memory for PDF output out of 10000 (max. 10000000)
+

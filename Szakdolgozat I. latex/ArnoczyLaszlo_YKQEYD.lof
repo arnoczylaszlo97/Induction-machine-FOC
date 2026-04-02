@@ -1,0 +1,48 @@
+\select@language {magyar} \contentsline {figure}{\numberline {1.}{\ignorespaces Megvalósított mezőorientált szabályozás felépítése }}{6}{figure.caption.1}%
+\select@language {magyar} \contentsline {figure}{\numberline {2.}{\ignorespaces Aszinkron gép D-Q helyettesítő áramkörei}}{9}{figure.caption.2}%
+\select@language {magyar} \contentsline {figure}{\numberline {3.}{\ignorespaces NO-LOAD teszt kapcsolási rajza és főmező induktivitás mágneses telítődése }}{11}{figure.caption.3}%
+\select@language {magyar} \contentsline {figure}{\numberline {4.}{\ignorespaces Feszültség limit ábrázolása különböző szögsebességeken}}{13}{figure.caption.4}%
+\select@language {magyar} \contentsline {figure}{\numberline {5.}{\ignorespaces MTPA folyamatábra }}{14}{figure.caption.5}%
+\select@language {magyar} \contentsline {figure}{\numberline {6.}{\ignorespaces MTPA interfészei}}{15}{figure.caption.6}%
+\select@language {magyar} \contentsline {figure}{\numberline {7.}{\ignorespaces MTPA statikus $L_m$-el}}{15}{figure.caption.7}%
+\select@language {magyar} \contentsline {figure}{\numberline {8.}{\ignorespaces MTPA mágneses telítődéssel}}{16}{figure.caption.8}%
+\select@language {magyar} \contentsline {figure}{\numberline {9.}{\ignorespaces Diszkrét idejű integrálás ábrája}}{17}{figure.caption.9}%
+\select@language {magyar} \contentsline {figure}{\numberline {10.}{\ignorespaces Diszkrét idejű PI szabályzó anti-windup technikával}}{18}{figure.caption.10}%
+\select@language {magyar} \contentsline {figure}{\numberline {11.}{\ignorespaces Integráló tag túlcsordulásának ábrázolása}}{18}{figure.caption.11}%
+\select@language {magyar} \contentsline {figure}{\numberline {12.}{\ignorespaces Áramszabályzó implementációja}}{19}{figure.caption.12}%
+\select@language {magyar} \contentsline {figure}{\numberline {13.}{\ignorespaces Kétszintű inverter áramköre}}{20}{figure.caption.13}%
+\select@language {magyar} \contentsline {figure}{\numberline {14.}{\ignorespaces Kapcsolási állapotok térvektorai}}{21}{figure.caption.14}%
+\select@language {magyar} \contentsline {figure}{\numberline {15.}{\ignorespaces SVM és SVPWM összehasonlítás}}{22}{figure.caption.15}%
+\select@language {magyar} \contentsline {figure}{\numberline {16.}{\ignorespaces Clarke transzformáció}}{23}{figure.caption.16}%
+\select@language {magyar} \contentsline {figure}{\numberline {17.}{\ignorespaces Szektor 1 szögeinek meghatározása}}{23}{figure.caption.17}%
+\select@language {magyar} \contentsline {figure}{\numberline {18.}{\ignorespaces Kapcsolási szekvencia sector 1-hez}}{25}{figure.caption.18}%
+\select@language {magyar} \contentsline {figure}{\numberline {19.}{\ignorespaces Kapcsolási táblázat szektoronként}}{26}{figure.caption.19}%
+\select@language {magyar} \contentsline {figure}{\numberline {20.}{\ignorespaces Szinuszos jelből PWM}}{26}{figure.caption.20}%
+\select@language {magyar} \contentsline {figure}{\numberline {21.}{\ignorespaces SVPWM implementációja}}{27}{figure.caption.21}%
+\select@language {magyar} \contentsline {figure}{\numberline {22.}{\ignorespaces Kétszintű inverter modell}}{28}{figure.caption.22}%
+\select@language {magyar} \contentsline {figure}{\numberline {23.}{\ignorespaces Vivőjel és moduláló jel komparálása}}{28}{figure.caption.23}%
+\select@language {magyar} \contentsline {figure}{\numberline {24.}{\ignorespaces Inverter fázisfeszültsége egy fázison}}{29}{figure.caption.24}%
+\select@language {magyar} \contentsline {figure}{\numberline {25.}{\ignorespaces Park transzformáció}}{30}{figure.caption.25}%
+\select@language {magyar} \contentsline {figure}{\numberline {26.}{\ignorespaces Inverz Park transzformáció}}{30}{figure.caption.26}%
+\select@language {magyar} \contentsline {figure}{\numberline {27.}{\ignorespaces Rotorfluxus vektor ábrázolása}}{31}{figure.caption.27}%
+\select@language {magyar} \contentsline {figure}{\numberline {28.}{\ignorespaces Fázis feszültség mérés RC szűrővel}}{32}{figure.caption.28}%
+\select@language {magyar} \contentsline {figure}{\numberline {29.}{\ignorespaces IIR aluláteresztő szűrő}}{33}{figure.caption.29}%
+\select@language {magyar} \contentsline {figure}{\numberline {30.}{\ignorespaces Bode diagram}}{36}{figure.caption.30}%
+\select@language {magyar} \contentsline {figure}{\numberline {31.}{\ignorespaces U/f karakterisztikája}}{37}{figure.caption.31}%
+\select@language {magyar} \contentsline {figure}{\numberline {32.}{\ignorespaces Szög meghatározása}}{37}{figure.caption.32}%
+\select@language {magyar} \contentsline {figure}{\numberline {33.}{\ignorespaces Sebesség összehasonlítása}}{38}{figure.caption.33}%
+\select@language {magyar} \contentsline {figure}{\numberline {34.}{\ignorespaces Rotorfluxus amplitúdó összehasonlítása}}{38}{figure.caption.34}%
+\select@language {magyar} \contentsline {figure}{\numberline {35.}{\ignorespaces Rotorfluxus szög összehasonlítása}}{39}{figure.caption.35}%
+\select@language {magyar} \contentsline {figure}{\numberline {36.}{\ignorespaces Kitöltési tényezők összehasonlítása}}{39}{figure.caption.36}%
+\select@language {magyar} \contentsline {figure}{\numberline {37.}{\ignorespaces FOC visszacsatolása}}{40}{figure.caption.37}%
+\select@language {magyar} \contentsline {figure}{\numberline {38.}{\ignorespaces Motor oldal implementációja }}{41}{figure.caption.38}%
+\select@language {magyar} \contentsline {figure}{\numberline {39.}{\ignorespaces Inverter oldal implementációja}}{42}{figure.caption.39}%
+\select@language {magyar} \contentsline {figure}{\numberline {40.}{\ignorespaces Munkapont nyomatékgörbéje}}{44}{figure.caption.40}%
+\select@language {magyar} \contentsline {figure}{\numberline {41.}{\ignorespaces Referencia és mért D-áram összehasonlítása}}{45}{figure.caption.41}%
+\select@language {magyar} \contentsline {figure}{\numberline {42.}{\ignorespaces Referencia és mért Q-áram összehasonlítása}}{45}{figure.caption.42}%
+\select@language {magyar} \contentsline {figure}{\numberline {43.}{\ignorespaces D-irányú feszültség mérése}}{46}{figure.caption.43}%
+\select@language {magyar} \contentsline {figure}{\numberline {44.}{\ignorespaces Q-irányú feszültség mérése}}{46}{figure.caption.44}%
+\select@language {magyar} \contentsline {figure}{\numberline {45.}{\ignorespaces Rotorfluxus mérése}}{47}{figure.caption.45}%
+\select@language {magyar} \contentsline {figure}{\numberline {46.}{\ignorespaces Motor nyomatékának mérése}}{47}{figure.caption.46}%
+\select@language {magyar} \contentsline {figure}{\numberline {47.}{\ignorespaces Munkapont nyomatékgörbéje telítődés beleszámolásával}}{48}{figure.caption.47}%
+\select@language {magyar} \contentsline {figure}{\numberline {48.}{\ignorespaces Motor nyomatéka mágneses telítődés beleszámolásával}}{49}{figure.caption.48}%

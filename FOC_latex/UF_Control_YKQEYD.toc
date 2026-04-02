@@ -1,0 +1,4 @@
+\select@language {magyar} \contentsline {section}{\numberline {1}U/f szabályzás elméleti hátterének bemutatása}{2}{section.1}%
+\select@language {magyar} \contentsline {section}{\numberline {2}U/f szabályzás Simulink implementációja}{4}{section.2}%
+\select@language {magyar} \contentsline {section}{\numberline {3}Sebességszabályzó modell bemutatása}{5}{section.3}%
+\select@language {magyar} \contentsline {section}{\numberline {4} Modell tesztelése }{6}{section.4}%

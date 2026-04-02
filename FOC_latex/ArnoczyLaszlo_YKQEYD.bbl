@@ -1,0 +1,72 @@
+\begin{thebibliography}{10}
+
+\bibitem{IRR1}
+Calculate cutoff frequency of a digital iir filter.
+\newblock
+  \url{https://electronics.stackexchange.com/questions/498226/calculate-cutoff-frequency-of-a-digital-iir-filter}.
+
+\bibitem{IRR2}
+Iir filters - theory and implementation (stm32).
+\newblock \url{https://www.youtube.com/watch?v=QRMe02kzVkA&t=686s}.
+
+\bibitem{Async}
+Mathworks asynchronous machine.
+\newblock
+  \url{https://www.mathworks.com/help/sps/powersys/ref/asynchronousmachine.html}.
+
+\bibitem{PWM}
+Pulse-width modulation.
+\newblock \url{https://studylib.net/doc/18034204/pulse-width-modulation}.
+
+\bibitem{TrapezoidI}
+Trapezoidal rule for integration | derivation.
+\newblock \url{https://www.youtube.com/watch?v=HVukQhDrNIQ&t=65s}.
+
+\bibitem{https://doi.org/10.13140/rg.2.2.35370.72649}
+Abd~Almula Gebreel.
+\newblock Simulation and implementation of two-level and three-level inverters
+  by matlab and rt-lab.
+\newblock 2011.
+\newblock \url{http://rgdoi.net/10.13140/RG.2.2.35370.72649}.
+
+\bibitem{IGBT}
+Sourav Gupta.
+\newblock Igbt - insulated gate bipolar transistor.
+\newblock \url{https://circuitdigest.com/tutorial/igbt-transistor}.
+
+\bibitem{MosaddeghHesar2019}
+Hamidreza~Mosaddegh Hesar, Hossein~Abootorabi Zarchi, and Mojtaba~Ayaz
+  Khoshhava.
+\newblock Online maximum torque per ampere control for induction motor drives
+  considering iron loss using input{\textendash}output feedback linearisation.
+\newblock {\em {IET} Electric Power Applications}.
+\newblock \url{https://doi.org/10.1049/iet-epa.2019.0400}.
+
+\bibitem{Hrkel2012}
+Michal Hrkel, Jan Vittek, and Zdeno Biel.
+\newblock Maximum torque per ampere control strategy of induction motor with
+  iron losses.
+\newblock {IEEE}.
+\newblock \url{https://doi.org/10.1109/elektro.2012.6225635}.
+
+\bibitem{7837349}
+Xu~Huihui, Zhao Feng, Cong Wei, Peng Wei, and Zhang Jian.
+\newblock A novel mtpa control strategy of induction motor based on torque
+  current compensation.
+\newblock In {\em 2016 19th International Conference on Electrical Machines and
+  Systems (ICEMS)}.
+\newblock \url{https://ieeexplore.ieee.org/document/7837349}.
+
+\bibitem{Nguyen2018}
+Hoach~The Nguyen and Jin-Woo Jung.
+\newblock Disturbance-rejection-based model predictive control: Flexible-mode
+  design with a modulator for three-phase inverters.
+\newblock {\em {IEEE} Transactions on Industrial Electronics}, April 2018.
+\newblock \url{https://doi.org/10.1109/tie.2017.2758723}.
+
+\bibitem{bme}
+Dr. Balogh~Attila Veréb~Szabolcs, Dr. Varjasi~István.
+\newblock Elektronikus átalakítók irányítása jegyzet.
+\newblock 2022.
+
+\end{thebibliography}
